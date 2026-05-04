@@ -26,3 +26,7 @@ Forest Cover Type Dataset (Kaggle/UCI)
 - GD accuracy: 0.7159
 - BCGD accuracy: 0.7138
 - Baseline (DummyClassifier): 0.4846
+
+## Authors
+Evalynn Ngamau (Student ID: 2183362)
+Marharyta Dinnik (Student ID: 2197362)
